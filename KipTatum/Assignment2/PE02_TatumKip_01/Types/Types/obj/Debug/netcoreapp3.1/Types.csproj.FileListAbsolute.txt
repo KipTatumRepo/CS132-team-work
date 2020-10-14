@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_01\Types\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+# Github will ignore these files
+*.zip
+*.tar
+*.rar
+*.jar
+*.iso
+*.gz
+*.dmg
+*.7z

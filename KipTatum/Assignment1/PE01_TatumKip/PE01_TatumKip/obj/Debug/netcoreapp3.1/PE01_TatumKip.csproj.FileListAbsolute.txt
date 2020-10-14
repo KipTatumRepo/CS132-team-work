@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\bin\Debug\netcoreapp3.1\PE01_TatumKip.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentOne\PE01_TatumKip\PE01_TatumKip\obj\Debug\netcoreapp3.1\PE01_TatumKip.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\bin\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\AssignmentTwo\PE02_TatumKip_02\StringArray\StringArray\obj\Debug\netcoreapp3.1\StringArray.genruntimeconfig.cache
