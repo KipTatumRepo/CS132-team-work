@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Random\\Random\\Randoms.csproj": {}
+    "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Randoms\\Randoms\\Randoms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Random\\Random\\Randoms.csproj": {
+    "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Randoms\\Randoms\\Randoms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Random\\Random\\Randoms.csproj",
+        "projectUniqueName": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Randoms\\Randoms\\Randoms.csproj",
         "projectName": "Randoms",
-        "projectPath": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Random\\Random\\Randoms.csproj",
+        "projectPath": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Randoms\\Randoms\\Randoms.csproj",
         "packagesPath": "C:\\Users\\kipta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Random\\Random\\obj\\",
+        "outputPath": "C:\\Users\\kipta\\Desktop\\CS132\\Programming Excercises\\CS132-team-work\\KipTatum\\Assignment3\\Randoms\\Randoms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,4 +1,13 @@
-﻿using System;
+﻿/********
+**
+**Name: Tatum, Kip
+**Class: CS 132
+**Project: 03
+**Date: 2020-19-10
+**Description: a program to generate two random numbers and perform various
+** operations on them.
+*********/
+using System;
 
 namespace Randoms
 {
@@ -12,7 +21,7 @@ namespace Randoms
 
 			//create one instance of the random object
 			Random randomNumber = new Random();
-			
+
 			//declare and assign the variables to be random nubmers between 1 and 100 
 			int a = randomNumber.Next(MIN, MAX);
 			int b = randomNumber.Next(MIN, MAX);

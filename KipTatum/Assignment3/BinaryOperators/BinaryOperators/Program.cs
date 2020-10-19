@@ -1,4 +1,12 @@
-﻿using System;
+﻿/********
+**
+**Name: Tatum, Kip
+**Class: CS 132
+**Project: 03
+**Date: 2020 - 19 - 10
+**Description: a program to perform binary operations on two numbers.
+*********/
+using System;
 
 namespace BinaryOperators
 {
