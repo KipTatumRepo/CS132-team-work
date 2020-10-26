@@ -30,14 +30,14 @@ namespace RefVal
 			Console.WriteLine("Values AFTER passing to PassByRefExample method");
 			Console.WriteLine($"First Number: {firstNumber}     Second Number: {secondNumber}");
 			Console.ReadKey();
+		}
+		/** Method Creation Section **/
 
-			/** Method Creation Section **/
-			//This method will take 2 floats in by reference update those floats to new values
-			static void PassByRefExample(ref float firstNumber, ref float secondNumber)
-			{
-				firstNumber += 6.3f;
-				secondNumber += 14.2f;
-			}
+		//This method will take 2 floats in by reference update those floats to new values
+		static void PassByRefExample(ref float firstNumber, ref float secondNumber)
+		{
+			firstNumber += 6.3f;
+			secondNumber += 14.2f;
 		}
 	}
 }

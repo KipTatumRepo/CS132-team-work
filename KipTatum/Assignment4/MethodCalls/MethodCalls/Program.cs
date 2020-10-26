@@ -27,22 +27,21 @@ namespace MethodCalls
 			//display the student name and average score
 			ShowAverage(STUDENT_NAME, average);
 			Console.ReadKey();
+		}
+		//**Method Creation Section**//
 
-			//**Method Creation Section**//
+		//take in three grades and return the calculated average of those three
+		//grades
+		static float CalculateAverage(float mg, float bg, float pg)
+		{
+			return (mg + bg + pg) / 3;
+		}
 
-			//take in three grades and return the calculated average of those three
-			//grades
-			static float CalculateAverage(float mg, float bg, float pg)
-			{
-				return (mg + bg + pg) / 3;
-			}
-
-			//take in the constant student name and calculated average grade so 
-			//we can output the name and average grade in a defined format
-			static void ShowAverage(string sn, float avg)
-			{
-				Console.WriteLine( $"{sn}: {avg}");
-			}
+		//take in the constant student name and calculated average grade so 
+		//we can output the name and average grade in a defined format
+		static void ShowAverage(string sn, float avg)
+		{
+			Console.WriteLine($"{sn}: {avg}");
 		}
 	}
 }
