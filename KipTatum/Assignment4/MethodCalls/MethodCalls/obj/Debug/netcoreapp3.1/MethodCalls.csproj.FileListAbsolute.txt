@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.genruntimeconfig.cache

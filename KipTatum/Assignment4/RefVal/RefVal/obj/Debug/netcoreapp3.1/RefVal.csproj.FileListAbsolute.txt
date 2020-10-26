@@ -1,0 +1,12 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.genruntimeconfig.cache
