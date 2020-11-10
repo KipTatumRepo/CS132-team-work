@@ -1,0 +1,12 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.genruntimeconfig.cache
