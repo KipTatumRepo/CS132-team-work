@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.genruntimeconfig.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.csprojAssemblyReference.cache
