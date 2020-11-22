@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.genruntimeconfig.cache

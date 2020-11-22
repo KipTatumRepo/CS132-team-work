@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment7\TimeSpan2\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.genruntimeconfig.cache
