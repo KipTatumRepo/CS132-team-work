@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\bin\Debug\netcoreapp3.1\Starter.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Starter\Starter\obj\Debug\netcoreapp3.1\Starter.genruntimeconfig.cache

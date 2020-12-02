@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\bin\Debug\netcoreapp3.1\Banking.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment9\Banking\Banking\obj\Debug\netcoreapp3.1\Banking.genruntimeconfig.cache
