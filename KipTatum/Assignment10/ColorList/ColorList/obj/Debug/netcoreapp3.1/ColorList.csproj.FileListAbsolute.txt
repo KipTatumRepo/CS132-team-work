@@ -1,0 +1,13 @@
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.exe
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.deps.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.dev.json
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.csprojAssemblyReference.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfoInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfo.cs
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.csproj.CoreCompileInputs.cache
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.dll
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.pdb
+C:\Users\kipta\Desktop\CS132\Programming Excercises\CS132-team-work\KipTatum\Assignment10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.genruntimeconfig.cache
